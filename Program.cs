@@ -5,6 +5,8 @@ using ChatGptTest;
 using ChatGptTest.Services;
 using OpenAI_API;
 using Serilog.Events;
+using System;
+using System.Threading.Tasks;
 using static ChatGptTest.Extensions.ServiceCollectionExtensions;
 
 class Program

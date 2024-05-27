@@ -5,6 +5,7 @@ using System.Net.Http.Headers;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Options;
 using OpenAI_API;
+using System;
 
 namespace ChatGptTest.Extensions;
 

@@ -1,7 +1,9 @@
 using ChatGptTest.Services;
 using ChatGptTest.Settings;
 using OpenAI_API;
+using System;
 using System.Diagnostics;
+using System.Threading.Tasks;
 using static ChatGptTest.Extensions.StringExtensions;
 
 namespace ChatGptTest;

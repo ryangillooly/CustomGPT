@@ -1,7 +1,10 @@
 using ChatGptTest.Settings;
 using NAudio.Wave;
+using System;
 using System.Runtime.InteropServices;
 using System.Diagnostics;
+using System.IO;
+using System.Threading.Tasks;
 using static ChatGptTest.Constants;
 
 namespace ChatGptTest.Services;
